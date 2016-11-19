@@ -1,0 +1,5 @@
+package sort
+
+modules = sort
+main = sort
+executable = sort
